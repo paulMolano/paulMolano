@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Paul</h1>
 <h3 align="center">A passionate Full Stack Developer from Spain</h3>
 
-- 🔭 I’m currently working on **Soundfy**
-
-- 🌱 I’m currently learning **Docker**
-
 - 👨‍💻 All of my projects are available at [www.paulmolano.com](www.paulmolano.com)
 
 - 📫 How to reach me **paulmolanoo@gmail.com**
